@@ -1,0 +1,27 @@
+
+.json-preview-content {
+    background: #2d2d2d;  /* Dark background */
+    color: #f8f8f2;       /* Light text color */
+    border-radius: 5px;
+    padding: 15px;
+    font-family: "Courier New", monospace;
+    font-size: 14px;
+    overflow: auto;
+    max-height: 600px;
+    line-height: 1.5;
+}
+.json-preview-content span.key {
+    color: #66d9ef;  /* Keys in light blue */
+}
+.json-preview-content span.string {
+    color: #a6e22e;  /* Strings in green */
+}
+.json-preview-content span.number {
+    color: #ae81ff;  /* Numbers in purple */
+}
+.json-preview-content span.boolean {
+    color: #f92672;  /* Booleans in red */
+}
+.json-preview-content span.null {
+    color: #75715e;  /* Null in gray */
+}

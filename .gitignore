@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+node_modules/
+__pycache__/
+.aider*
+.helix
+dist/
+preview_attachment/public/dist
