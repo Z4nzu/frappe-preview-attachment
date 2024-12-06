@@ -1,6 +1,6 @@
 # Frappe Attachment Preview
 
-This Frappe app introduces a functionality to preview file attachments directly within the Frappe framework. By adding an **eye icon** next to each attachment, users can quickly view the content of attached files without downloading them.
+This Frappe app introduces a functionality to preview file attachments directly within the Frappe framework. By adding an **icon** next to each attachment, users can quickly view the content of attached files without downloading them.
 
 ## Features
 
@@ -19,6 +19,12 @@ This Frappe app introduces a functionality to preview file attachments directly 
 ## Screenshots
 
 Add screenshots here to demonstrate the functionality:
+![1](https://github.com/user-attachments/assets/8992fe69-ecf1-491b-8c41-ddbff06a315d)
+
+![2](https://github.com/user-attachments/assets/fe7a0a8a-d751-4436-9cb9-66523b7f364d)
+
+![3](https://github.com/user-attachments/assets/d8a1761e-fb76-43b1-abd5-4d918d6b50b1)
+
 
 
 ## Installation
