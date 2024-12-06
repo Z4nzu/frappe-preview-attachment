@@ -12,9 +12,7 @@ required_apps = ['frappe']
 # include js, css files in header of desk.html
 # app_include_css = "/assets/preview_attachment/css/preview_attachment.css"
 # app_include_js = "/assets/preview_attachment/js/preview_attachment.js"
-app_include_css = ['preview_attachment.bundle.css',
-                   'https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.10.0/build/styles/srcery.css'
-                   ]
+app_include_css = ['preview_attachment.bundle.css',]
 app_include_js = ['preview_attachment.bundle.js']
 
 # include js, css files in header of web template
